@@ -1,0 +1,63 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+#instagram{
+    float: right;
+    margin: 10px;
+}
+    
+.inline{
+    display: inline-block;
+    background-color:rgb(247, 226, 207);
+    padding: 20px;
+    color: rgb(199, 82, 5);
+    font-size: 20px;
+    margin: 3px 3px;
+    
+}
+#left-box{
+    display: inline-block;
+    background-color: rgb(247, 223, 171);
+    width: 29%;
+}
+
+#left-top{
+    height: 300px;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+#argo-photo{
+    margin-top: 25px;
+}
+
+#left-bottom{
+    border-style: solid;
+    border-width: 0px 1px 1px 1px;
+    padding: 10px;
+    line-height: 150%;
+}
+
+#right-box{
+    background-image: url("../images/paw_bg.png");
+    width: 69%;
+    height: 500px;
+    float: right;
+    text-align: center;
+    padding-top: 50px;
+}
+#right-box-inner{
+    display: inline-block;
+    width: 700px;
+    height:400px;
+    background-color:rgb(245, 227, 194);
+}
+
+nav {
+    border: 1px solid rgb(112, 66, 12);
+    background-color: rgb(197, 134, 38);
+}
+
+
